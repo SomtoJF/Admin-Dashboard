@@ -1,0 +1,11 @@
+:root{
+    border: solid black 1px;
+    box-sizing: border-box;
+}
+#container{
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-template-rows: 1fr 5fr;
+}
