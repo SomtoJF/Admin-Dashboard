@@ -37,6 +37,7 @@ body{
     background-color: lightgray;
     border-radius: 15px;
     height: 50%;
+    padding: 3px 10px;
 }
 #searchbar:focus{
     border: none;
